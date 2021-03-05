@@ -1,0 +1,60 @@
+== Kole - szterin ==
+
+A szó elsõ fele görög eredetû, ''kole'' = epét jelent. A ''szterin'' egy a vegyészek által létrehozott besorolás, egyfajta csoportnév, a zsíros anyagokat hívják így.
+
+Egyes körökben még mindig elterjedt a tévhit, miszerint a koleszterin káros a szervezetre nézve, ezért kerülendõ. Pedig nem hogy nem kerülendõ, de szükséges is a szervezet megfelelõ mûködéséhez. Nemcsak külsõ bevitelbõl kerül belénk, de maga a szervezetünk - pontosabban a májunk - is termeli. Fontos tudni, hogy nem a magas koleszterinszint vezet plakkosodáshoz, érelmeszesedéshez, hanem a hibás koleszterin-anyagcsere.
+
+Figyelembe kell venni, hogy a koleszterinszintje mindenkinek egyéni, nincs mindenkire vonatkoztatható határérték.
+
+=== LDL és HDL-szint ===
+
+'''LDL''' (Low Density Lipoprotein)''':''' "Rossz" koleszterin, ha túl sok van jelen belõle, lerakódik az érfalban, ami a kardiovaszkuláris megbetegedések kockázatát fokozza.
+
+'''HDL''' (High Density Lipoprotein)''':''' "Jó" koleszterin, a lerakódott LDL-t eltávolítja az érfalból, és visszaszállítja a májba, ahol lebontódik.
+
+
+'''A magas LDL nem veszélyes''', ha a HDL-szint arányosan követi. Veszélyrõl akkor beszélünk, ha magas LDL-szint mellett alacsony a HDL-szint. Az aránytalanul magas LDL azt jelzi, hogy felborult a koleszterin-anyagcsere.
+
+=== Mikor borul fel a koleszterin-anyagcsere? ===
+.
+.
+.
+
+
+~''Érdekesség: Egy teszt során, zsíros és koleszterin-gazdag ételek kerülésével magasabb koleszterinszintet mutattak ki, mint azok fogyasztásakor.''~
+
+== Néhány fontos tény, amit érdemes tudni a koleszterinrõl ==
+
+Fõleg külsõ koleszterin-bevitel mennyiségtõl függ, hogy a máj mennyi koleszterint termel önállóan. Ha sok koleszterint vittünk be, kevesebbet termel, és fordítva. Még több lenyelt koleszterin esetén a máj egyáltalán nem termel mellé többet. ''Ha annál is több koleszterint vittünk be, mint amennyit a szervezet hasznosítani tudna'', '''a máj kiszûri a felesleges mennyiséget''', ami az epecsatornákon keresztül az epébe jut. Ennek kivezetõcsöve a patkóbélbe vezet, ahonnan kiürülhet a szervezetbõl. A patkóbélhez vezetõ nyíláson viszont csak akkor jut át, ha a táplálékkal elfogyasztott zsír azt eléri - tehát '''a zsírmentes diéta''' akadályozza a koleszterin kiürülését, '''epeproblémákhoz vezet'''.
+
+Meg kell jegyezni, hogy a külsõleg bevitt koleszterin nem a vérbe kerül, azt a máj szabályozza. A máj ''akkor emeli fel a vér-koleszterinszintet, ha veszélyes, ártalmas anyagot észlel a szervezetben''.
+
+*Koleszterinbõl van a ''myelinburok'' és a ''gliaszövet'' is. Elõbbi az idegsejteket óvja, utóbbi a sejtek közötti minõségi összeköttetésért felelõs, ''nélkülözhetetlen az agysejtek pontos kommunikációjához''. Hiányában többet hibázik az agy, romlik a memória, a reakcióidõ, a figyelem.
+*A koleszterindiétát folytatók nagyobb eséllyel kaphatnak szívinfarktust, mint a magas koleszterinszinttel rendelkezõk.
+*Napfény hatására a ''D-vitamint'' állítja elõ
+*''Nemi- és stresszhormonok'' készülnek belõle
+*Agyunk szárazanyagtartalmának 10%-a koleszterin
+
+Van még egy fontos dolog, amiért a szervezetnek állandóan szüksége van koleszterin utánpótlásra. A máj epesavakat is gyárt a koleszterinbõl, ami az emésztést indítja be. Vagyis epesav hiányában emésztési zavarok lépnek fel.
+
+~''Érdekesség: 2004-ben a függetlennek vélt szakértõi bizottság leszállította a normálisnak tekintett koleszterinszinthatárt, aminek következtében egybõl további hétmillió amerikainak kellett volna szednie élethossziglan valamely sztatint, vagyis a modern koleszterinszint-csökkentõk családjának egyik tagját.''~
+
+== Veszélyesebb a koleszterinnél ==
+
+=== Koleszterinszint-csökkentõk ===
+A magas LDL-szintre felírt sztatinok nem a koleszterinszintet csökkentik, hanem a koleszterinszintézist - tehát az LDL mellett a "jó" koleszterineket is, ami egy alapanyag a szervezet számára. A koleszterinszintézis akadályozása miatt fellépõ koleszterinhiányos állapot miatt fogamzási problémák, butulás, libidó csökkenés, emésztési zavarok a leggyakoribbak, de akár a szervezet védekezõ, önfenntartó képességének teljes összeomlása  is elõfordulhat.
+
+''' A koleszterin-csökkentõk minden olyan mechanizmust is csökkentenek, aminek helyes mûködéséhez koleszterin szükséges.'''
+
+
+=== Transzzsírsavak ===
+
+
+
+----
+
+== Felhasznált források ==
+
+Dr. Uffe Ravnskov munkái
+
+Szendi Gábor: Kockázatok és mellékhatások - A gyógyszer nagy üzlet, de néha halálos

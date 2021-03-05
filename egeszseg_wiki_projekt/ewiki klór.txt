@@ -1,0 +1,38 @@
+
+== Amit tudni kell róla ==
+
+
+
+== Veszélyei ==
+
+==== A vegyület ====
+A klór már önmagában sincs kedvezõ hatással a szervezetre, vízben lévõ szerves anyaggal(pl. kis mennyiségû izzadtság, hám, haj, stb.) érintkezve viszont veszélyes méreggé alakul át. A klórozás során többféle vegyület, mint pl. a ''nátrium-hypoklorid, klóramin, diklóramin, nitrogén-triklorid, kloroform'' és valószínûleg még számos más nem vizsgált vegyület '''rákkeltõ hatású, mutagén'''. A DNS-hez és az RNS-hez is képes közvetlenül kapcsolódni, ami azokban mutációt idéz elõ.
+
+''„93%- kal nagyobba rákos megbetegedések rizikója azoknál, akik klóros vizet használnak, azokkal szemben, akik nem.”'' Környezet Minõségügyi Tanács Egyesült Államok
+
+''„Klórt tenni a vízbe, olyan, mintha egy idõzített bombát indítanánk be. A '''rák''', a '''szívbetegségek''', a '''korai szenilitás''', mind mentális és fizikai, a klórral kezelt víznek tulajdonítható állapotok. '''Idõ elõtt megöregít minket''', az öregedés olyan tüneteit okozva, mint az '''érelmeszesedés'''.”'' Dr. Herbert Schwarts Biokémikus
+
+==== Klórgáz ====
+
+
+==== Egyéb hatásai ====
+*bõrszárazság
+*ekcéma
+*pattanások
+*korpásodás
+*száraz, töredezett, fénytelen haj
+*idõ elõtt öregedõ bõr
+
+== Ahol jelen van ==
+
+Mivel fertõtlenítésre használják, szinte mindenhol találkozhatunk vele ahol emberek által kezelt víz van: vízmûvek, uszodák, medencék vizeiben, valamint csapvizeknél is alkalmazzák. A WHO jelentése szerint a földön az emberek 80%-a klórral fertõtlenített vizet iszik.
+Klórt viszont nem csak ivóvízzel viszünk szervezetünkbe, hanem tusolás során is, amikor is az anyag nagy felületen érintkezhet bõrrel. Fõleg meleg vízben, amikor a pórusok kitágulnak, így a klór könnyen fel tud szívódni a bõrön keresztül (10 perc zuhanyzással annyi klór kerül a szervezetbe, mintha megittunk volna 2 liter klóros vizet). A vízgõz során fellépõ klórgáz belégzése pedig szintúgy káros hatással van szervezetünkre, levegõbe jutva pedig már nem csak az "érintettet" érik el.
+
+''~Érdekesség: nyáron, amikor a vizek melegebbek a csövekben, a baktériumok elszaporodásának megakadályozása érdekében megemelik a klór adagolási szintjét is.~''
+
+== Egyéb ==
+
+[Fertõtlenítés céljából lehet helyettesíteni hidrogén-peroxiddal(amelynek bomlásterméke teljesen ártalmatlan a környezetre), vagy ecetsavval összevont még erõsebb formájával, a perecetsavval (utóbbi szintén környezetbarát, viszont 110C°-on robban(!), és önmagában a fémeket is megtámadja, ezért csak korrózió gátló szerekkel együtt lehet alkalmazni).]
+
+== Források ==
+Szakemberek véleménye a klórról: [http://naturahirek.hu/mi-tortenik-ha-egy-akvariumba-klort-teszunk-megdoglenek-a-halak-vajon-mi-emberek-jobban-reagalunk-erre-a-vegyszerre/]

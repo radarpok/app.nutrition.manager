@@ -1,0 +1,18 @@
+*app_szervezetallapot_figyelo
+
+*app_utazas_tervezo
+
+*app_bevasarlas_tervezo
+
+*app_tapanyag_bevitel_figyelo
+
+-------	Elkeszitendo es elkeszitett receptek, figyelni mi mikor
+	keszult utoljara, milyen hozzavalok kellenek a kovetkezo
+	elkeszitendo fogashoz, osszeegyeztetni a kovetkezokkel:
+	app_utazas_tervezo, app_bevasarlas_tervezo, app_szervezetallapot_figyelo
+
+*app_vitaminok_hatasat_figyelo
+
+-------	osszeegyeztetni a kovetkezovel: app_penzmozgas_koveto
+
+*app_penzmozgas_koveto

@@ -1,0 +1,55 @@
+Ki hallott már arról, hogy a sót valaha fizetõeszközként használták? És arról, hogy hajdan háborúk is dúltak érte?
+Nos, ha ma bárkit megkérdeznénk a sófogyasztással kapcsolatos rizikókkal, a legtöbbeknek biztosan a magas vérnyomás jutna elõször az eszébe – ez igaz, de azt tudtad, hogy a [[sóhiány]] viszont HALÁLT okozhat? Hadd segítsünk egy kicsit tisztábban látni:
+
+==Só=[[Magas vérnyomás|magas vérnyomás]]?==
+''Általánosan elterjedt tévhit'', hogy a só közvetlenül összefüggésbe hozható ezzel a problémával.
+Az emberi szervezetben kilogrammonként átlagosan ''1,4 g'' nátrium van, tehát egy 70 kg-os ember nátriumtartalma átlagosan ''100 g''. A szervezetben '''1 Na''' molekulához '''8 vízmolekula''' társul;
+akkor beszélünk ''magas vérnyomásról'', ha a túl sok nátrium végül annyi vizet köt magához, hogy a vérben keringve ''megemeli annak térfogatát''(ennek több kiváltó oka is lehet természetesen, de most maradjunk a nátriumnál). - Legalábbis ezt tanítják az orvostanhallgatóknak.
+Ha ez így van, egyes "sófogyasztóknak" hogy jelenthet ez problémát, míg másoknak nem? Ehhez elõször azt kell megtudnunk, hogy mit csinálnak – vagy éppen nem csinálnak- azok a sófalók, akiknek nem okoz problémát a magas vérnyomás.
+
+Nem kell az asztali sózásról lemondani, ha el akarjuk kerülni a magas vérnyomást, az érelmeszesedést és a többi, a só számlájára írt rizikót. Elõbb mindenképp meg kell vizsgálnunk a ránk ható külsõ-belsõ tényezõket, és azok hatásait szervezetünkre, mielõtt a sót kiáltanánk ki felelõsként.
+
+==Ahogy mi fogyasztjuk==
+A só legtöbbet emlegetett formája '''NaCl''' (nátrium-klorid), más néven konyhasó. Az igazi, tiszta asztali sónak nem is szabadna mást tartalmaznia, csupán ezt a vegyületet.
+{|
+| [[Fájl:NaCl.jpg|250px]]
+| 
+A boltokban kapható só mellett gyakran találni adalékanyagokat. A sóbevitel csökkentése viszont ''(élet)veszélyes játék'', ha nem ismerjük az összefüggéseit más bevitt anyagokkal.
+A leggyakrabban '''KCL''' (kálium-klorid)-al találkozhatunk az NaCl mellett. Mindenekelõtt meg kell említeni, hogy a kálium elengedhetetlen a szervezet számára – de amire nekünk szükségünk van, az növényi eredetû, gyümölcsök húsából és zöldségekbõl származik. 
+Ezen kívül a szervezet nemhogy nem igényli, de rendesen megsínyli azt, ha ez az anyag kálisó formájában jut belé. A szervetlen kálium ugyanis még kis adagban is káros hatással van szerveink mûködésére.
+|}''(Érdekesség: Az USA-ban még van halálbüntetés, de már nem villamosszékkel hajtják végre, hanem 4 gramm kálium intravénás befecskendezésével, ami azonnali szívmegállást idéz elõ.)''
+
+A szervezetünkben jelen lévõ optimális nátrium-kálium arány 30:1. Ebbõl kifolyólag, ha magas káliumtartalmú ételt fogyasztunk (pl. szója, paradicsom), azt nátriummal kell kompenzálni.
+
+Az, hogy ki mennyire érzékeny a sóbevitelre, genetikától függ. Van aki fokozottan, és van aki egyáltalán nem. 
+'''A felelõtlenül/indokolatlanul visszatartott sóbevitel sokkal súlyosabb károkat von maga után, mintha bõségesen fogyasztanánk.'''
+
+
+== Érdekes összefoglaló ==
+
+
+''Szendi Gábor'' cikkének néhány részlete a sómítoszról:
+
+
+''Mindegyik elemzés és vizsgálat arra a következtetésre jutott'', hogy a sófogyasztás népességszintû csökkentése, mint általános prevenciós technika, semmi elõnnyel nem jár, ellenben számos kockázatot hoz magával. Kinek jutna eszébe a mogyorós csokit betiltani, csak azért mert egyesekben súlyos allergiás reakciót vált ki a mogyoró?
+
+Gyakori tanács terhes nõknek, hogy csökkentsék sófogyasztásukat, elkerülendõ a ''terhességi magasvérnyomást'' és ''pre-eklampsziát''. 1993-ban az '''Amerikai Szülészek és Nõgyógyászok Kollégiuma''' nem javasolta a sócsökkentést, mert haszontalan és még veszélyes is lehet. A magzat és az anya kapcsolata terhesség alatt közel sem olyan harmonikus, amint ahogy képzeljük. Anya és magzat közt érdekellentétek vannak, és ez biológiai csatározásokhoz vezet.
+
+A terhességi magasvérnyomást az evolúciós medicina úgy tekinti, mint a magzat azon való igyekezetét, hogy a magasabb vérnyomással több oxigént és tápanyagot kapjon a placentán át. A magzat ezért olyan anyagokat termel, amelyek megnövelik az anya vérnyomását. Ha válaszként az anya lecsökkenti a sófogyasztását, lényeges vérnyomáscsökkenés nem várható, viszont a szervezetét megfosztja a nátriumtól, ami a szervezet egyensúlyának felborulását eredményezheti. 
+
+Hasonló a helyzet a terhességi cukorbetegséggel, amelyet szintén a magzat idéz elõ. A magzat-trükkje, hogy megemeli az anya inzulinszintjét, hogy több cukorhoz és fehérjéhez jusson, és ez arra érzékeny anyákban a hasnyálmirigy kifáradásához és következményes cukorbetegséghez vezet. Ez a sófogyasztás szempontjából azért is érdekes lehet, mert vannak arra utaló adatok, hogy a sófogyasztás csökkentése rontja a sejtek inzulinérzékenységét, ami szintén fokozza a cukorbetegség kialakulásának kockázatát.
+
+Bár az idézett vizsgálatok és még sok nem idézett, egyértelmûen kimondja, hogy a sófogyasztás csökkentése népesség szinten értelmetlen, sõt veszélyes, vannak érzékeny személyek, akiknél káros lehet a sok só. A ''vesebetegek és a sóérzékenyek'' mégsem tobzódhatnak a sóban, ahogy a [[Cukorbetegség|cukorbetegek]] a cukorról kénytelenek részlegesen lemondani. Az azonban bizonyos, hogy egészséges emberek semmit nem elõznek meg a csökkentett só-diétával, sõt, esetleg bajt okozhatnak maguknak.[http://www.tenyek-tevhitek.hu/somitosz.htm]
+
+
+== Egyéb források, hivatkozások: ==
+
+Dr. Kárpáti Zoltán (okl. vegyész, okl. környezetvédelmi szakmérnök): [http://www.natursziget.com/egeszseg/20100110-van-e-okunk-felni-a-konyhasotol]
+
+Weixl-Várhegyi László (mérnök-radiesztéta, bioenergetikus, fitoterapeuta, életmód- és táplálkozási tanácsadó): [http://www.natursziget.com/egeszseg/20110906-sozzunk-de-hogyan]
+
+MTI: [http://www.netambulancia.hu/eletmod/etkezes/magas+vernyomast+okoznak+a+cukros+uditok]
+
+[http://www.otvenentul.hu/forumtopic.php?PageID=28277#post]
+
+[http://biokemia.blog.hu/2009/12/10/hogyan_ol_iii_a_halalos_injekcio]

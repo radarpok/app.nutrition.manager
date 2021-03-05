@@ -1,0 +1,69 @@
+Egyes körökben még mindig elterjedt a tévhit, miszerint a koleszterin káros a szervezetre nézve, ezért kerülendõ. Pedig nem hogy nem kerülendõ, de szükséges is a szervezet megfelelõ mûködéséhez. Nemcsak külsõ bevitelbõl kerül belénk, de maga a szervezetünk - pontosabban a májunk - is termeli. Fontos tudni, hogy nem a magas koleszterinszint vezet plakkosodáshoz, [[Érelmeszesedés|érelmeszesedéshez]], hanem a hibás koleszterin-anyagcsere.
+{|
+| [[Fájl:Koleszterin.jpg|250px]]
+|
+|}
+Figyelembe kell venni, hogy a koleszterinszintje mindenkinek egyéni, nincs mindenkire vonatkoztatható határérték.
+
+== Tünetei ==
+
+Nincsenek testi tünetei, ez nehezíti a diagnosztizálását, de rá utaló jelek (egyéb betegségek) lehetnek:
+
+...
+
+Vérvétellel lehet megállapítani.
+
+== Okai ==
+
+=== LDL és HDL-szint ===
+
+'''LDL''' (Low Density Lipoprotein)''':''' "Rossz koleszterin", a szervezet úgymond raktárkészlete; ha nem tud felhasználódni, lerakódik az érfalban, ami a kardiovaszkuláris (a szívet és/vagy az érrendszert érintõ) megbetegedések kockázatát fokozza.
+
+'''HDL''' (High Density Lipoprotein)''':''' "Jó koleszterin", azonnal felhasználható; a lerakódott LDL-t eltávolítja az érfalból, így védve azt az elmeszesedéstõl. Fehérjeburokban van, hogy a sejtreceptorok meg tudják fogni.
+
+Ugyan így ismeretesek, de elnevezésükbõl is látszik, hogy ezek valójában nem koleszterinek, hanem (alacsony- és magas sûrûségû) zsírfehérjék. "Koleszterinszint" mérésnél többek között ezek jelenlétének mértékét állapítják meg.
+
+'''A magas LDL nem veszélyes''', ha a HDL-szint arányosan követi. Veszélyrõl akkor beszélünk, ha ''magas LDL-szint mellett alacsony a HDL-szint''. Az aránytalanul magas LDL azt jelzi, hogy felborult a koleszterin-anyagcsere.
+
+=== Mikor borul fel a koleszterin-anyagcsere? ===
+
+Van egyfajta ellenanyag, ami alapvetõen jelen van az emberi szervezetben. Ez pedig az ''antikoleszterin antitest'' (ACHA - Anti Cholesterol Antibody). A "rossz koleszterinekhez" kötõdik, körbevonja õket, így téve azokat felhasználhatóvá, amik önmagukban - egyedi struktúrájuk miatt (a HDL-el ellentétben) - nem tudnak közvetlenül fehérjékhez kötõdni, így a szervezet nem tudja õket hasznosítani. A fel nem használt lipoproteinek így az érfalban kötnek ki, ahol egy daganat, duzzanat keletkezik.
+
+~''Érdekesség: Egy teszt során, zsíros és koleszterin-gazdag ételek kerülésével magasabb koleszterinszintet mutattak ki, mint azok fogyasztásakor.''~
+
+A szervezet koleszterinhiány esetén megtermeli magának a szükséges mennyiséget, amiben HDL és LDL is található. '''ACHA hiány esetén viszont nem tud mind felhasználódni, aminek következtében a maradék az érfalakban halmozódik fel.'''
+
+=== Mi akadályozza az ACHA termelõdését? ===
+Az eltorzult életmód. Mozgáshiány, stressz, dohányzás, és számos szervezetünkbe bejutó méreganyag.
+
+== Kezelése ==
+
+=== 1.) HDL növelése ===
+
+*Aerob - kis vagy közepes erõkifejtést igénylõ - mozgásformákkal (séta, kocogás, biciklizés, úszás, túrázás, stb.)
+*Egészséges testsúly fenntartásával (<30)
+*Dohányzással való felhagyással
+*Transzzsírsavak kerülésével
+*Egyszeresen és többszörösen telítetlen zsírsavakkal - omega 3-6-9 (pl. repceolaj, halolaj, szezámmagolaj, extraszûz olívaolaj) [http://www.fogyas.info/zsirok-besorolasa_telitett_egyszeresen-telitetlen_tobbszorosen-telitetlen.php]
+*Mértékletes alkoholfogyasztással
+*Oldható rostok fogyasztásával (pl. zab, lenmag, korpa, hüvelyesek, rozs, alma, sárgarépa, brokkoli)
+*
+
+=== 2.) ACHA termelésének fokozása ===
+
+Egyben az LDL felhasználhatóvá tétele, a már lerakódotté is. Megoldás lehet antigén bejuttatása vakcinával. Egy magyar tudós, Dr. Horváth István felfedezése.
+
+
+'''''A koleszterin szerepérõl és helytelen kezelésérõl: [[A koleszterinrõl|Tovább]]'''''
+
+== Felhasznált források ==
+
+Dr. Uffe Ravnskov munkái
+
+Szendi Gábor: Kockázatok és mellékhatások - A gyógyszer nagy üzlet, de néha halálos
+
+Dr. Horváth István orvos-biológus elõadása
+
+HDL növelésének módjai [http://heartdisease.about.com/cs/cholesterol/a/raiseHDL.htm]
+
+A vakcináról: [http://www.kolesterin.hu/menu2.html]

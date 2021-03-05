@@ -1,0 +1,40 @@
+-koleszterin szükséges az aldoszteron szintéziséhez (hormon, ami a vérnyomást, a só- és vízvisszatartást szabályozza)
+-sóhiány esetén magas aldoszteron-szint (fokozottan termelõdik, hogy visszatartsa a sót)
+-inzulinrezisztencia (állítólag minél erõsebb, annál súlyosabb a depresszió; ez a magas aldoszteronszint egyik következménye)
+
+Az aldoszteron egy hormon, amit a mellékvese termel, a legjelentõsebb természetes mineralokortikoid. A mineralokortikoidok a só- és vízháztartást, valamint a vérnyomást szabályozzák.
+
+==Túltermelõdése (Hiperaldoszteronizmus)==
+
+Elõfordulhat maga a [[Vese|mellékvesekéreg]] elváltozásától (primer), vagy külsõ hatásokotól (szekunder). Pl., ha hiány van [[Konyhasó|NaCl]]-ból, a hormon fokozottan termelõdik, hogy visszatartsa a maradék mennyiséget. Ezzel viszont egyúttal a szervezet kálium- és hidrogénion-tartalmát csökkenti, amibõl gyengeség, '''magas vérnyomás''' és szívproblémák következnek.
+Hosszútávú magas szintje inzulinrezisztenciát vált ki, ami 2-es típusú '''cukorbetegség'''hez vezet, de kiváltója a [[Depresszió|depressziónak]] is.
+
+Egyéb következményei:
+*izomgyengeség
+*bénulás
+*idegrendszer mûködési zavara
+*'''Conn-szindróma''' 
+
+==Alacsony szintje (Hipoaldoszteronizmus)==
+
+''Koleszterin'' feltétlenül szükséges az aldoszteron szintéziséhez. Ha szervezetünk akadályozva van a koleszterin termelésében, aldoszteronból is hiány lép fel. Csökkent aldoszteron-szint esetén a szervezet csak kevés nátrium megkötésére képes, ami '''alacsony vérnyomást''' és gyakori vizelést eredményez. 
+Egyes gyógyszerek is gátolhatják az aldoszteron-szintézist. [http://hu.wikipedia.org/wiki/Mineralokortikoid#A_mineralokortikoid-receptor_g.C3.A1tl.C3.B3szerei]
+
+Egyéb következményei:
+*só- és vízvesztés
+*magas kálium és hidrogén tartalom
+*'''Addison-kór'''
+
+
+aldoszterontermelést fokozó hatások (pl. veseér-szûkület, szívelégtelenség, májzsugor, vesebetegség) 
+
+
+
+Paul Van Dyk
+Another Way
+
+Ann Lee
+Voices
+
+Kwabs
+Wrong Or Right

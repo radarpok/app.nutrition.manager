@@ -1,0 +1,3 @@
+Fontos tudni, hogy nem a magas vérnyomás örökölhetõ, hanem a nátrium-anyagforgalmi zavarra való hajlam.
+
+*'''Nátrium-anyagforgalmi zavar''': Léteznek gének (pl. CYP3A5, STK 39), amelyek a vese nátrium-kiválasztásában okoznak zavart. Alapesetben egy egészséges vese ki tudja választani a kellõ nátrium mennyiségét, a felesleget pedig vérnyomásemelkedés nélkül el tudja távolítani. Ennek a zavarnak következtében azonban a vese csak magas vérnyomás mellett képes a folyamatra.

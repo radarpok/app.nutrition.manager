@@ -1,0 +1,88 @@
+Az elemi fluor erõsen maró, halványsárga színû gáz. Anionja (negatív töltésû ion) a fluorid, amely lehet szerves, vagy szervetlen - ezen belül is több fajtája van (pl. sodium fluoride / nátrium fluorid, amely szervetlen),  mindnek más hatása van a szervezetre. Szervezetünk a szerves kötéseket "kedveli", ezeket könnyen beépíti a sejtekbe.
+
+== Miben van fluorid? ==
+
+Napjaink egyik legáltalánosabbnak mondható anyaga, amivel napi szinten érintkezünk: a '''''fogkrém'''''. Mindennapos használatra ajánlják, a fogaink egészségének megóvása végett. Az azonban kevésbé elterjedt információ, hogy a fluorid '''nem szerves''', izolált kémiai folyamatok eredményeképpen van jelen a fogkrémekben, ami egyáltalán nincs kedvezõ hatással a szervezetünkre.
+
+Egy másik anyag, a ''nátrium-fluorid'' is megtalálható a fogkrémekben, úgy mint az '''''ivó- vagy ásványvizekben''''' és egyéb termékekhez adagolva. Ez az atom-, az alumínium és a foszfátos mûtrágyaipar egyik veszélyes mellékterméke. Amellett, hogy a patkány- és csótánymérgek egyik alapvetõ összetevõje, széles körben alkalmazzák érzéstelenítésre, hipnotikus és pszichiátriai gyógyszerek gyártásához, valamint katonai ideggáz elõállításához.
+
+Még '''''iskolatejek''''' is tartalmazhatnak fluoridot, úgy ahogyan a '''''csapvíz''''' és '''''konyhasó''''' is.
+
+Természetes élelmiszerekben elõforduló '''szerves''' fluor, és annak mennyisége (ng/100g):
+
+{| class="wikitable"
+|-
+| '''Sárgabarack''' || ''2-6''
+| '''Sárgarépa''' || ''22''
+|-
+| '''Szilva (apróbb)''' || ''2''
+| '''Lencse''' || ''23''
+|-
+| '''Mogyoró''' || ''3''
+| '''Hagyma''' || 14-18
+|-
+| '''Citrom, héj nélkül''' || ''3''
+| '''Zöldborsó''' || ''29''
+|-
+| '''Alma''' || ''5''
+| '''Fejes saláta''' || ''30''
+|-
+| '''Citromhéj''' || ''5''
+| '''Petrezselyem''' || ''134''
+|-
+| '''Körte''' || ''6''
+| '''Majoránna''' || ''192''
+|-
+| '''Burgonya, hámozott''' || ''9''
+| '''Zeller zöldje''' || ''70''
+|-
+| '''Burgonya héja''' || ''150-1300''
+| '''Tojás''' || ''10-40''
+|-
+| '''Mandula''' || ''9''
+| '''Tehéntej''' || ''11-90''
+|-
+| '''Fehérkáposzta''' || ''9''
+| '''Tengeri hal''' || ''500-1000''
+|-
+| '''Paradicsom''' || ''9''
+| '''Zab''' || ''25''
+|-
+| '''Egres''' || ''11''
+| '''Rozs''' || ''61''
+|-
+| '''Ribizli''' || ''12''
+| '''Kukorica''' || ''13-740''
+|-
+| '''Karfiol''' || ''12''
+| '''Rizs''' || ''61-78''
+|-
+| '''Zöldbab''' || ''12''
+| '''Búza''' || ''70''
+|-
+| '''Cseresznye''' || ''18''
+| '''Köles''' || ''20-90''
+|}
+
+Ezen kívül megtalálható teákban, a szardíniában
+
+== Amire hatással van ==
+
+*'''Tobozmirigy''': Elmeszesíti a [[Tobozmirigy|tobozmirigyet]].
+
+*'''IQ, agytevékenységek''': Zavart okoz az ingerületátvitelben. Több tanulmány is kimutatta, hogy csökkenti az intelligenciát és a tanulási képességet. Kialakulhatnak memóriazavarok, felboríthatja az alvás-ébrenlét ciklust.
+
+*'''Csontok''': Magas fluoridszint esetén csont-fluorózis alakulhat ki, ami veszélyesen elgyengíti a csontokat. Azoknak akik ilyenben szenvednek, egyetlen egyszerû eséstõl is könnyen eltörik a csontjuk.
+
+*'''Termékenység'''
+
+*'''Jódháztartás'''
+
+*'''Fogak''': Sokakat meg fog ez most lepni, de itt az ideje hogy végre tisztázódjon - a fogaknak nemhogy nincs szüksége a külsõleg bevitt fluoridra, de nagyobb mennyiségben* még károsítja is azokat! Ez a folyamat a ''dentális fluorózis'', vagyis a fluorid-túladagolás. Ilyenkor a fogakon az apró foltoktól kezdve, a barnás elszínezõdésen keresztül a durvább károsodásig bármi létrejöhet, bevitt mennyiségtõl függõen. *''(Nagyobb mennyiség alatt értendõ az, ha fluoridos fogkrém mellett még az ivóvizünk is fluoriddal van kezelve, vagy fluortablettát is szedünk mellé.)''
+
+== Kivezetõk ==
+*[[bórax]]
+*jódos gyógyvizek
+
+== Források, egyéb: ==
+http://bionom.hu/a-te-fogkremedben-is-van-csotanymereg.html

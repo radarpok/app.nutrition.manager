@@ -1,0 +1,19 @@
+A magas koleszterinszint önmagában nem betegség és nem is rizikófaktor, a fontos hogy a HDL és LDL milyen arányban van. Nem feltétlenül a zsíros, koleszterindús étrend vezet elhízáshoz. 
+
+..Nem tudom máshol megválaszolták-e már a kérdésed, bár nem lévén szakértõ, de van néhány tippem.
+(Mindenekelõtt nem árt tisztázni, hogy a koleszterindús étrend önmagában nem eredményez magas koleszterinszintet. A meglepõ, hogy koleszterinszegény étrend is vezethet magas szérum szinthez [a szervezet megtermeli magának ha hiányt érzékel, az egyensúly akkor borul fel, ha valami más miatt baj van a lebontással, anyagcserével].) Azt tanácsos nézni, mi gátolhatja a rendszert megfelelõ mûködésében, és mit nem csinálnak a kövér emberek, amit a soványok igen (és fordítva):
+
+1.) Túlzott szénhidrát (+finomított dolgok) és alacsony fehérjebevitel esetén inzulinrezisztencia lép fel egy idõ után, amitõl többek között megugorhat az LDL-szint. Ez sajnos elterjedt és általános táplálkozási hiba. 
+2.) Az arányok felborulása. Ha a HDL szintje megfelelõ arányban van, az kordában tudja tartani az LDL-t. Lehet, hogy egyes kövér emberek szervezetében ez az arány megfelelõ.
+3.) Nem tud lebontódni.
+a) A máj rossz állapota, betegségei miatt.
+b) Alapból a HDL használható fel azonnal, az LDL úgymond "csomagolva" van, egy bizonyos ellenanyag kell a szervezetben legyen, hogy ki tudja bontani. Ennek hiányában hiába gyárt magának koleszterint, az LDL-t nem tudja felhasználni, így az felgyülemlik.
+/Ezen felül az is közrejátszhat, ha közben valami külsõ hatás csökkenti a HDL mennyiségét (pl. dohányzás). HDL-t omega-3-mal és oldható rostokkal lehet a legjobban pótolni./
+
+Még valami. Dr. Lenkei Gábor elõadása alapján a koleszterin fel nem használt része (felesleg), miután megszûrte a máj, az epébe kerül. A bélrendszer egy bizonyos pontjának ugyanakkor zsírral kell érintkeznie, hogy beinduljon az ürítési folyamat. Ha azt vesszük alapul, hogy a kövérebb emberek nem vonják meg maguktól a zsírt (nem a transzzsírsavakra gondolok, amiket kerülni kell), míg a soványabbak (általában) igen, akkor nekik mindig megfelelõen távozhat a szervezetükbõl a felesleg.
+(Tehát ha már valakinek eleve magas a koleszterinszintje, és zsírszegény diétát javasolnak neki, azzal a felesleg kiürülését akadályozza neki, ráadásul az epében pangás léphet fel.)
+
+Következtetésképp, azok a túlsúlyos emberek akiknek nem magas a koleszterin-szintjük (és akik nem a túlzott szénhidrát- vagy transzzsírfogyasztástól híztak el), valószínû: nem dohányoznak, több fehérjét visznek be mint szénhidrátot, egészséges a májuk, a HDL-pótlás meg van oldva, a zsírok bevitelével pedig megfelelõ idõközönként tud ürülni a felesleg...Nem feltétlenül mind, de a java része úgy vélem fennáll ilyen esetben. Remélem segített kicsit.:)
+
+
+A másik, hogy mindenkinek egyéni a határértéke, ami valakinek már magasat mutat, az másvalakinek még alacsonynak számíthat az igényeihez képest; így nem lehetne hivatkozni a hivatalos határértékre.

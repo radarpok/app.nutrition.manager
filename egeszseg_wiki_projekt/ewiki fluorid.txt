@@ -1,0 +1,122 @@
+
+== A fogak egészsége érdekében... ==
+A fõ indok, amivel egy fogorvos elõhozakodhat a fluorid használata érdekében, az a fogszuvasodás megelõzése. 
+ 
+''"A száj flórája rendkívül gazdag mikroorganizmusokban, amelyek szimbiózisban élnek az emberi szervezettel. A szájban található milliónyi baktérium számára a cukor tápanyagként szolgál, amelyet anyagcseréjükben egy rendkívül agresszív savvá alakítanak át. Ez a sav megtámadja a fogzománcot, ásványi sókat old ki belõle. A folyamat néhány perccel a cukor szájba kerülése után kezdõdik és órákon át eltart."'' - Elméletben erre kínál megoldást a fogkrémek fluorozása.
+
+De ez egy '''hatalmas tévhit'''. A fogainknak valóban szüksége van fluoridra, hogy a fogainkat épen és erõsen tartsa - de ezt a bevitt kalcium és kloridium-vegyületek feldolgozásával és visszaépítésével teszi, a külsõleg bevitt "kész" fluoriddal nem tud mit kezdeni. Az nem fog hasznosulni, fõleg nem a fogzománcban. Ellenben könnyen felszívódik a nyálkahártyán keresztül, ahonnan a véráramba jutva szabad útja van a legkülönfélébb mellékhatások és betegségek produkálására...
+Ugyanez a helyzet a fluortablettákkal is.
+
+== Miben van fluorid? ==
+
+Napjaink egyik legáltalánosabbnak mondható anyaga, amivel napi szinten érintkezünk: a '''''fogkrém'''''. Mindennapos használatra ajánlják, a fogaink egészségének megóvása végett. Az azonban kevésbé elterjedt információ, hogy a fluorid ''nem szerves, izolált kémiai folyamatok eredményeképpen van jelen a fogkrémekben'', ami egyáltalán nincs kedvezõ hatással a szervezetünkre - ahogy, meglepõ módon, a fogainkra sem.
+
+Egy másik anyag, a ''nátrium-fluorid'' is megtalálható a fogkrémekben, úgy mint az '''''ivó- vagy ásványvizekben''''' és egyéb termékekhez adagolva. Ez az atom-, az alumínium és a foszfátos mûtrágyaipar egyik veszélyes mellékterméke. Amellett, hogy a patkány- és csótánymérgek egyik alapvetõ összetevõje, széles körben alkalmazzák érzéstelenítésre, hipnotikus és pszichiátriai gyógyszerek gyártásához, valamint katonai ideggáz elõállításához.
+
+Még ''iskolatejek''(!) is tartalmaznak fluoridot, úgy ahogyan az ivóvíz is.
+
+
+
+Természetes élelmiszerekben elõforduló fluor, és annak mennyisége (ng/100g):
+
+{| class="wikitable"
+|-
+| '''Sárgabarack''' || ''2-6''
+| '''Sárgarépa''' || ''22''
+|-
+| '''Szilva (apróbb)''' || ''2''
+| '''Lencse''' || ''23''
+|-
+| '''Mogyoró''' || ''3''
+| '''Hagyma''' || 14-18
+|-
+| '''Citrom, héj nélkül''' || ''3''
+| '''Zöldborsó''' || ''29''
+|-
+| '''Alma''' || ''5''
+| '''Fejes saláta''' || ''30''
+|-
+| '''Citromhéj''' || ''5''
+| '''Petrezselyem''' || ''134''
+|-
+| '''Körte''' || ''6''
+| '''Majoránna''' || ''192''
+|-
+| '''Burgonya, hámozott''' || ''9''
+| '''Zeller zöldje''' || ''70''
+|-
+| '''Burgonya héja''' || ''150-1300''
+| '''Tojás''' || ''10-40''
+|-
+| '''Mandula''' || ''9''
+| '''Tehéntej''' || ''11-90''
+|-
+| '''Fehérkáposzta''' || ''9''
+| '''Tengeri hal''' || ''500-1000''
+|-
+| '''Paradicsom''' || ''9''
+| '''Zab''' || ''25''
+|-
+| '''Egres''' || ''11''
+| '''Rozs''' || ''61''
+|-
+| '''Ribizli''' || ''12''
+| '''Kukorica''' || ''13-740''
+|-
+| '''Karfiol''' || ''12''
+| '''Rizs''' || ''61-78''
+|-
+| '''Zöldbab''' || ''12''
+| '''Búza''' || ''70''
+|-
+| '''Cseresznye''' || ''18''
+| '''Köles''' || ''20-90''
+|}
+
+Csak tájékoztatásul: a fluorid már több országban, többek között Skandináviában, Amerikában, Oroszországban is be van tiltva. Nem, itt Európában még sajnos nincs...
+
+== Amire hatással van ==
+
+====Tobozmirigy====
+Elmeszesíti a tobozmirigyet, amivel nagy mértékben blokkolja annak mûködését.
+
+====IQ====
+Több tanulmány is kimutatta, hogy csökkenti az intelligenciát.
+
+====Csontok====
+Magas fluoridszint esetén csont-fluorózis alakulhat ki, ami veszélyesen elgyengíti a csontokat. Azoknak akik ilyenben szenvednek, egyetlen egyszerû eséstõl is könnyen eltörik a csontjuk.
+
+====Termékenység====
+
+
+====Fogak====
+Sokakat meg fog ez most lepni, de itt az ideje hogy végre tisztázódjon - a fogaknak nemhogy nincs szüksége a külsõleg bevitt fluoridra, de nagyobb mennyiségben még károsítja is azt! Nagyobb mennyiség alatt értendõ az, ha fluoridos fogkrém mellett még az ivóvizünk is fluoriddal van kezelve, vagy fluortablettát is szedünk az mellé. 
+
+
+''~Érdekesség: orvos javaslatára felíratható fluorid, tabletta formájában.~''
+
+
+== Kivezetõk ==
+*étkezési borax
+*
+*jódos gyógyvizek
+
+
+== Fluoridmentes termékek ==
+
+
+----
+
+== Források: ==
+
+http://www.ketezeregy.hu/egeszseg/fluor#
+
+http://www.sikerrefel.hu/tudod-e-hogy-mi-valojaban-a-fluorid/
+
+http://antalvali.com/fluor-es-fluoridok-hasznos-vagy-karos.html
+
+http://olcsobbuzemanyag.hupont.hu/14/fluoridmentes-fogkrem
+
+http://idokjelei.hu/2012/06/a-fogkrembe-kevert-fluoridot-a-ii-vilaghaboruban-meg-a-rabok-sterilizalasara-es-megszeliditesere-hasznaltak/
+
+http://blog.xfree.hu/myblog.tvn?SID=&pid=86513&n=orsi1&blog_cim=Mindennapi%20m%E9rgeink%2013.
